@@ -1,0 +1,80 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.headerName {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  color: #ffffff;
+  width: 300px;
+}
+
+.headerBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: transparent;
+  color: #ffffff;
+  width: 140px;
+  padding: 0.5rem 1rem;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  font-size: 1.5rem;
+  height: 40px;
+  cursor: pointer;
+  transition: box-shadow 1s, background-color 1s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.headerBtn:hover {
+  background-color: #f319e1;
+  box-shadow: 7px 7px 2px rgba(166, 49, 177, 0.5);
+}
+
+.headerBtn:not(:hover) {
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+.actionIcon {
+  border-radius: 20px;
+  background: transparent;
+  transition: box-shadow 1s, background-color 1s;
+}
+.actionIcon:hover {
+  background-color: #f319e1;
+  box-shadow: 7px 7px 2px rgba(166, 49, 177, 0.5);
+}
+.actionIcon:not(:hover) {
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+.popoverDropDown {
+  background-color: rgba(140, 22, 151, 0.2);
+  border: none;
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(20px);
+}
+
+.headerLi {
+  list-style-type: none;
+  display: flex;
+  margin-top: 10px;
+}
+
+.headerA {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  transition: color 1s;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.headerA:hover {
+  color: #f319e1;
+}

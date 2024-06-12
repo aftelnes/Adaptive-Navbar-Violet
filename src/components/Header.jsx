@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Popover, Text, ActionIcon } from "@mantine/core";
+import { Popover, ActionIcon } from "@mantine/core";
 import { IconMenu2 } from "@tabler/icons-react";
 
 import styles from "./Header.module.css";

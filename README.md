@@ -10,30 +10,28 @@
 
 # Simple adaptive navbar
 
-# skrinshot 1
+# screenshot 1
 
-![skrinshot 1](./skrinhots/skrin1.png)
+![screenshot 1](./screenshots/skrin1.png)
 
-# skrinshot 2
+# screenshot 2
 
-![skrinshot 2](./skrinhots/skrin2.png)
+![screenshot 2](./screenshots/skrin2.png)
 
-# skrinshot 3
+# screenshot 3
 
-![skrinshot 3](./skrinhots/skrin3.png)
+![screenshot 3](./screenshots/skrin3.png)
 
-# skrinshot 4
+# screenshot 4
 
-![skrinshot 4](./skrinhots/skrin4.png)
+![screenshot 4](./screenshots/skrin4.png)
 
-# skrinshot 5
+# screenshot 5
 
-![skrinshot 5](./skrinhots/skrin5.png)
+![screenshot 5](./screenshots/skrin5.png)
 
-# skrinshot 6
+# screenshot 6
 
-![skrinshot 6](./skrinhots/skrin6.png)
+![screenshot 6](./screenshots/skrin6.png)
 
 # video
-
-https://github.com/aftelnes/Adaptive-Navbar-Violet/skrinhots/video.mp4

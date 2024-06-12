@@ -36,4 +36,4 @@
 
 # video
 
-./skrinhots/video.mp4
+https://github.com/aftelnes/Adaptive-Navbar-Violet/skrinhots/video.mp4
